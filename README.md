@@ -2,7 +2,7 @@
 Search and generate random meals from the [themealdb.com](www.themealdb.com) API 
 
 ### `Skills`
-#### Fetch API, JavaScript
+#### Fetch API, JavaScript, Awesome CSS generation through JS.
 
 ## Project Specifications
 
